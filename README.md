@@ -1,5 +1,7 @@
 **Product Profile Portfolio:**
+
 **Project Overview:**
+
 This project focuses on building a Product Profile Portfolio for a set of consumer products. Each profile includes standardized and structured product details, such as:
 
 1.Product name and brand
