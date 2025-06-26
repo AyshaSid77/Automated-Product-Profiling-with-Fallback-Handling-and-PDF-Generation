@@ -52,6 +52,6 @@ Fallback System	Logic to handle missing data using default values or prompts for
 
 **Standardize Output:** Apply naming and packaging conventions
 
-Generate PDF: Export structured product profiles into a formatted PDF
+**Generate PDF:** Export structured product profiles into a formatted PDF
 
-Prepare Presentation: Summarize approach, challenges, and key learnings
+**Prepare Presentation:** Summarize approach, challenges, and key learnings
