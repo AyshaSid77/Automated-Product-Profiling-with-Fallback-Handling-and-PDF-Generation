@@ -33,20 +33,24 @@ To create a clean, consistent, and accurate set of product profiles from a raw d
 5.Delivering outputs in professional formats (PDF and presentation)
 
 **Implementation Details**
+
 **Components Used**
+
 **Component	Description**
-input.csv	Contains raw product data: Product ID, Description, and Supplier
+
+**input.csv	Contains raw product data:** Product ID, Description, and Supplier
 PRODUCT_DATABASE	A Python dictionary holding complete specifications for known products
 Fallback System	Logic to handle missing data using default values or prompts for manual input
 
 **Workflow Summary**
-Read Input: Parse the input.csv to extract product fields
 
-Match Data: Compare entries with PRODUCT_DATABASE for known specs
+**Read Input:** Parse the input.csv to extract product fields
 
-Enrich Data: Use fallback system or external research to fill gaps
+**Match Data:** Compare entries with PRODUCT_DATABASE for known specs
 
-Standardize Output: Apply naming and packaging conventions
+**Enrich Data:** Use fallback system or external research to fill gaps
+
+**Standardize Output:** Apply naming and packaging conventions
 
 Generate PDF: Export structured product profiles into a formatted PDF
 
