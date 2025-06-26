@@ -1,4 +1,4 @@
-**Product Profile Portfolio:**
+**Automated Product Profiling with Fallback Handling and PDF Generation**
 
 **Project Overview:**
 
